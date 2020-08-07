@@ -33,14 +33,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+-makes html make sense gives your page meaning div and sectioions 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+-block is same line & in-line block is multi lines
 
 3. What are the 4 areas of the box model?
+-contnet border magin padding
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+-x axis is horzinal and y axis is vertical
 
 5. Explain why git is valuable to a team of developers.
+-prevents concurent code and same code merging
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -104,4 +109,4 @@ After finishing your required elements, you can push your work further. These go
 
 * [x] refactor your HTML, make sure it's indented properly, clean, readable, you have written appropriate comments where necessary and that all attributes (required and encouraged) are filled out correctly.  
 * [ ] Ensure your CSS is organized and readable, you've seperated your code by section and that you are using descriptive class names and adding classes in your HTML where styles repeat rather than rewrting the same styles over again
-* [ ] Use a flex item property of your choice when laying out a section of your website, ensure you can explain how and why you've used this property 
+* [x] Use a flex item property of your choice when laying out a section of your website, ensure you can explain how and why you've used this property 
