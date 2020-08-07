@@ -153,7 +153,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     padding: 15px 2%;
-    margin: 15px;'
+    margin: 15px;
     font-size: 14px;
     text-decoration: none;
     color: black;
@@ -268,3 +268,55 @@ padding: 1em;
     align-items: center;
     justify-content: center;
 } 
+.start{
+    display: flex;
+    width: 65%;
+    justify-content: center;
+    margin-left: 17em;
+    margin-bottom: 1em;
+    font-size: 18px;
+   
+}
+.end{
+    display: flex;
+    width: 65%;
+    justify-content: center;
+    margin-left: 17em;
+    font-size: 18px;   
+}
+.about{
+    width: 57%;
+    display: flex;
+    justify-content: center;
+    margin: 1em;  
+    margin-left: 22%;
+}
+.aboutt{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    margin: 1em;  
+    margin-left:19%;
+}
+.h2{
+    width: 57%;
+    display: flex;
+    justify-content: center;
+    margin: 1em;  
+    margin-left: 22%;
+}
+.h22{
+    width: 57%;
+    display: flex;
+    justify-content: center;
+    margin: 1em;  
+    margin-left: -1%;
+}
+
+.foot ,footer{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin-left:21% ;
+
+}
